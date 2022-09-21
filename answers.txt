@@ -1,0 +1,4 @@
+Q1: Line 48, function "print_vector"
+Q2: The while loop parameter is always true, so it will be stuck in there forever!
+Q3: In the "copy_cat" function, i doesn't increment, so it is stuck in a for loop.
+Q4: The "vector_sum" function was set to <= to the size of the vector, so it accessed info outside the vector, which resulted in a large sum.
